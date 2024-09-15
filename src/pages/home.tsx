@@ -58,7 +58,7 @@ Home.get('/', (c) => {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
         <script src="https://cdn.tailwindcss.com" />
-        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.3/dist/tailwind.min.css" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.3/dist/tailwind.min.css" rel="stylesheet"/>
         <style
           dangerouslySetInnerHTML={{
             __html: `
